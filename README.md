@@ -1,3 +1,10 @@
+Olá, tudo bem?
+
+Eu sou o Rian, gostaria de ressaltar que todo o codigo foi feito e testado em outro ambiente do git hub. Fiz todos os teste e escritas do codigo em outro ambiente (Ainda não sabia onde deria enviado, então comecei a produzir em outro codeespace.)
+
+Caso tenha curiosidade em saber Link: https://github.com/RianDiaas/Faculdade
+
+
 # Desafio Super Trunfo - Países - Cadastro das Cartas
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
